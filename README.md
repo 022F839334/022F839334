@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there I'M Ophelia Magdalena
 
-<!--
+<a< href="https://www.linkedin.com/in/magdalena-pielat-b48ab1339/">
 **022F839334/022F839334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
